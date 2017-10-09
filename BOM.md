@@ -9,3 +9,10 @@
 # 7" open frame universal HDMI LCD with capacitive multi-touch 136 € mit shipping :-)
 -> https://www.chalk-elec.com/?page_id=1280#!/7-open-frame-universal-HDMI-LCD-with-capacitive-multi-touch/p/21750207/category=3094861
 
+# Deutsche QWERTZ-Tastatur mit Mikro-USB-Stecker
+-> https://www.amazon.de/XIDO-Tastaturbelegung-Ledertasche-Schutzh%C3%BClle-Kunstleder/dp/B00XIEMRI8/ref=pd_sbs_147_1?_encoding=UTF8&psc=1&refRID=H7GQPD1E30A2ZSEGWT5W
+
+# Einziehbares Roll-up Micro USB Cable
+-> https://www.amazon.de/KRS-KRM-Einziehbares-aufrollbar-Datenkabel/dp/B00UEIRUSS/ref=pd_sim_147_1?_encoding=UTF8&psc=1&refRID=YDN6A0NV4SZTBNZ5MRJ6
+
+# 
