@@ -15,4 +15,6 @@
 # Einziehbares Roll-up Micro USB Cable
 -> https://www.amazon.de/KRS-KRM-Einziehbares-aufrollbar-Datenkabel/dp/B00UEIRUSS/ref=pd_sim_147_1?_encoding=UTF8&psc=1&refRID=YDN6A0NV4SZTBNZ5MRJ6
 
-# 
+# Perixx PERIPAD-501II - Wired USB Touchpad 
+-> https://www.amazon.co.uk/Perixx-PERIPAD-501II-86x75x11mm-Industrial-Professional/dp/B001CX85I8/ref=redir_mobile_desktop/258-9261228-1403005?_encoding=UTF8&dpID=41mxfpXo1HL&dpPl=1&keywords=keyboard%20usb%20mini%20touchpad&pi=AC_SX236_SY340_QL65&qid=1507580971&ref=plSrch&ref_=mp_s_a_1_55&sr=8-55
+
