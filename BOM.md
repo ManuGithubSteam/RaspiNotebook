@@ -37,4 +37,39 @@
 
 -> https://www.amazon.de/gp/product/B0721PYB9S/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1
 
+# 3,5 Klinke adapter Kabel
+
+-> https://www.amazon.de/gp/product/B0198L22BQ/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1
+
+# HDMI Flachband Kabel
+
+-> https://www.amazon.de/gp/product/B01M1MZ8Y8/ref=oh_aui_detailpage_o03_s01?ie=UTF8&psc=1
+
+# 0,5 Watt Lautpsrecher
+
+-> https://www.amazon.de/gp/product/B00X77TY96/ref=oh_aui_detailpage_o03_s02?ie=UTF8&psc=1
+
+# Schrumpfschlauch
+
+-> https://www.amazon.de/gp/product/B008X4RLJS/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1
+
+# TFT USB Power Data Cable Adapter
+
+-> https://www.amazon.de/gp/product/B01FU9YSE4/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1
+
+# Pi Heatsink
+
+-> https://www.amazon.de/gp/product/B06XQJYGTH/ref=oh_aui_detailpage_o08_s02?ie=UTF8&psc=1
+
+# TFT / Pi Power Cables
+
+-> https://www.amazon.de/gp/product/B0713T3X3F/ref=oh_aui_detailpage_o09_s00?ie=UTF8&psc=1
+
+#  USB Cable for 4 USB Out of the Pi
+
+-> https://www.amazon.de/gp/product/B00A6I2LZI/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1
+
+
+
+
 
