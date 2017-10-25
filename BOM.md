@@ -25,6 +25,8 @@
 # 10 Stk 13,7 mm USB Buchse Typ A 
 -> https://www.amazon.de/Stk-Buchse-Anschluss-poligen-Grad/dp/B00H51O4MM/ref=sr_1_12?s=ce-de&ie=UTF8&qid=1507585320&sr=1-12&keywords=usb+port+l%C3%B6ten
 
+-> https://www.amazon.de/sourcingmap%C2%AE-Klinke-L%C3%B6ten-Stecker-Adapter-schwarz-silber/dp/B00OK5Y728/ref=sr_1_1?ie=UTF8&qid=1508941449&sr=8-1&keywords=usb+male+l%C3%B6ten
+
 # USB Card Reader Stick
 
 -> https://www.amazon.de/gp/product/B073B2WFVH/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1
@@ -36,6 +38,7 @@
 # Switches 
 
 -> https://www.amazon.de/gp/product/B0721PYB9S/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1
+
 -> https://www.amazon.de/gp/product/B008R50AA0/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1
 
 # 3,5 Klinke adapter Kabel
