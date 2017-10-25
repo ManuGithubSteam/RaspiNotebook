@@ -27,15 +27,16 @@
 
 # USB Card Reader Stick
 
--> https://www.amazon.de/gp/product/B071YLGMF1/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1
+-> https://www.amazon.de/gp/product/B073B2WFVH/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1
 
 # Mirror for Battery dislay
 
--> https://www.amazon.de/gp/product/B005OBT2AY/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1
+-> https://www.amazon.de/gp/product/B01MTKKF0A/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1
 
 # Switches 
 
 -> https://www.amazon.de/gp/product/B0721PYB9S/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1
+-> https://www.amazon.de/gp/product/B008R50AA0/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1
 
 # 3,5 Klinke adapter Kabel
 
@@ -68,8 +69,20 @@
 #  USB Cable for 4 USB Out of the Pi
 
 -> https://www.amazon.de/gp/product/B00A6I2LZI/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1
+-> https://www.amazon.de/gp/product/B0713T3X3F/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1
 
+# Usb3 Stick for Data Storage, store in front of Case
 
+- > https://www.amazon.de/gp/product/B016ZSZU8M/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1
 
+# Temperature Humidity Sensor
 
+-> https://www.amazon.de/Arduino-Temperatur-Feuchtigkeit-Hygrometer-Humidity/dp/B00HCAC95K/ref=sr_1_2?s=ce-de&ie=UTF8&qid=1508940925&sr=1-2&keywords=Temperature+Humidity+Sensor
 
+# San Disk 32 GB for additional harddrive built in
+
+-> https://www.amazon.de/gp/product/B00812F7O8/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1
+
+# USB Soundcard 
+
+-> https://www.amazon.de/QUMOX-Externer-Virtual-Soundkarte-Adapter/dp/B072N71ZRK/ref=sr_1_23?s=computers&ie=UTF8&qid=1508941308&sr=1-23&keywords=Soundblaster+Soundkarte+usb
