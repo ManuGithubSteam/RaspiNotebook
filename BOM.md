@@ -89,3 +89,7 @@
 # USB Soundcard 
 
 -> https://www.amazon.de/QUMOX-Externer-Virtual-Soundkarte-Adapter/dp/B072N71ZRK/ref=sr_1_23?s=computers&ie=UTF8&qid=1508941308&sr=1-23&keywords=Soundblaster+Soundkarte+usb
+
+# Wire mesh
+
+-> https://www.amazon.de/gp/product/B072L9VBWJ/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1 
