@@ -93,3 +93,8 @@
 # Wire mesh
 
 -> https://www.amazon.de/gp/product/B072L9VBWJ/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1 
+
+# OLED Display
+
+-> https://www.amazon.de/AZDelivery-Display-Arduino-Raspberry-gratis/dp/B074N9VLZX/ref=sr_1_1?ie=UTF8&qid=1508942823&sr=8-1&keywords=oled%2Bdisplay%2Braspberry&th=1
+
