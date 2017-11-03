@@ -105,3 +105,8 @@
 # Analog Digital Converter für Heart Rate Sensor
 
 -> https://www.amazon.de/gp/product/B075SSS2RR/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1
+
+# USB HUB
+
+-> https://www.amazon.de/AmazonBasics-USB-Hub-Ultra-Ports/dp/B003M0NURK/ref=sr_1_1?ie=UTF8&qid=1509745296&sr=8-1&keywords=amazon+hub+2.0
+
