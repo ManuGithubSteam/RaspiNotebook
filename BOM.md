@@ -101,3 +101,7 @@
 # Heart Rate Monitor Sensor
 
 -> https://www.amazon.de/gp/product/B00X3WW0A0/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1
+
+# Analog Digital Converter für Heart Rate Sensor
+
+-> https://www.amazon.de/gp/product/B075SSS2RR/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1
