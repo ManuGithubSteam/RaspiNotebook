@@ -98,3 +98,6 @@
 
 -> https://www.amazon.de/AZDelivery-Display-Arduino-Raspberry-gratis/dp/B074N9VLZX/ref=sr_1_1?ie=UTF8&qid=1508942823&sr=8-1&keywords=oled%2Bdisplay%2Braspberry&th=1
 
+# Heart Rate Monitor Sensor
+
+-> https://www.amazon.de/gp/product/B00X3WW0A0/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1
