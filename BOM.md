@@ -110,3 +110,8 @@
 
 -> https://www.amazon.de/AmazonBasics-USB-Hub-Ultra-Ports/dp/B003M0NURK/ref=sr_1_1?ie=UTF8&qid=1509745296&sr=8-1&keywords=amazon+hub+2.0
 
+# Laser Pointer (für 3v Batterie)
+
+-> https://www.amazon.de/gp/product/B0716FSRJ1/ref=s9_acsd_hps_bw_c_x_5_w
+
+
