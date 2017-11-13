@@ -114,4 +114,17 @@
 
 -> https://www.amazon.de/gp/product/B0716FSRJ1/ref=s9_acsd_hps_bw_c_x_5_w
 
+# Mic
+
+-> https://www.amazon.de/gp/product/B004YEWC22/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1
+
+# HDMI switch
+
+-> https://www.amazon.de/gp/product/B00W3GBX50/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1 
+
+# SD Card reader
+
+-> https://www.amazon.de/gp/product/B06X1DX5WS/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1
+
+
 
