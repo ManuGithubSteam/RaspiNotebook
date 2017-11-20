@@ -56,10 +56,6 @@ and
 
 -> https://www.amazon.de/gp/product/B008X4RLJS/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1
 
-# TFT USB Power Data Cable Adapter
-
--> https://www.amazon.de/gp/product/B01FU9YSE4/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1
-
 # Pi Heatsink
 
 -> https://www.amazon.de/gp/product/B06XQJYGTH/ref=oh_aui_detailpage_o08_s02?ie=UTF8&psc=1
@@ -70,8 +66,7 @@ and
 
 #  USB Cable for 4 USB Out of the Pi
 
--> https://www.amazon.de/gp/product/B00A6I2LZI/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1
--> https://www.amazon.de/gp/product/B0713T3X3F/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1
+-> https://www.amazon.de/gp/product/B00QSBALYK/ref=oh_aui_detailpage_o07_s00?ie=UTF8&th=1
 
 # Usb3 Stick for Data Storage, store in front of Case
 
@@ -93,7 +88,7 @@ and
 
 -> https://www.amazon.de/gp/product/B072L9VBWJ/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1 
 
-# OLED Display
+# 2x OLED Display
 
 -> https://www.amazon.de/AZDelivery-Display-Arduino-Raspberry-gratis/dp/B074N9VLZX/ref=sr_1_1?ie=UTF8&qid=1508942823&sr=8-1&keywords=oled%2Bdisplay%2Braspberry&th=1
 
