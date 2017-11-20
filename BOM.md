@@ -11,27 +11,24 @@
 
 or
 
--> https://www.amazon.de/Waveshare-Capacitive-Interface-Supports-Raspberry/dp/B01HPV7KL8/ref=sr_1_1?s=computers&ie=UTF8&qid=1508415826&sr=1-1&keywords=waveshare+7zoll+lcd
+-> https://www.amazon.de/Waveshare-Capacitive-Interface-Supports-Raspberry/dp/B01HPV7KL8/ref=sr_1_1?s=computers&ie=UTF8&qid=1508415826&sr=1-1&keywords=waveshare+7zoll+lcd (tested)
 
-# Deutsche QWERTZ-Tastatur mit Mikro-USB-Stecker
--> https://www.amazon.de/CSL-Bluetooth-Kunstledercase-FN-Funktionstasten-Multicolor/dp/B01MFAUHYM/ref=sr_1_12?ie=UTF8&qid=1508415993&sr=8-12&keywords=mini+keyboard+bluetooth+magnetisch
+# QWERTZ-Keyboard
+-> https://www.amazon.de/CSL-Bluetooth-Kunstledercase-FN-Funktionstasten-Multicolor/dp/B01MFAUHYM/ref=sr_1_12?ie=UTF8&qid=1508415993&sr=8-12&keywords=mini+keyboard+bluetooth+magnetisch (tested)
+
+or
 
 -> https://www.amazon.de/KKmoon-Bluetooth-Magnetische-Ledertasche-Smartphone/dp/B013P1LZC2/ref=sr_1_5?ie=UTF8&qid=1508415993&sr=8-5&keywords=mini+keyboard+bluetooth+magnetisch
 
-# Einziehbares Roll-up Micro USB Maus
+# Roll-up Micro USB mice
 -> https://www.amazon.de/gp/product/B005PUXAJ8/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1
 
-# Perixx PERIPAD-501II - Wired USB Touchpad 
--> https://www.amazon.co.uk/Perixx-PERIPAD-501II-86x75x11mm-Industrial-Professional/dp/B001CX85I8/ref=redir_mobile_desktop/258-9261228-1403005?_encoding=UTF8&dpID=41mxfpXo1HL&dpPl=1&keywords=keyboard%20usb%20mini%20touchpad&pi=AC_SX236_SY340_QL65&qid=1507580971&ref=plSrch&ref_=mp_s_a_1_55&sr=8-55
-
-# 10 Stk 13,7 mm USB Buchse Typ A 
+# 10 Stk 13,7 mm USB Buchse Typ A male and female
 -> https://www.amazon.de/Stk-Buchse-Anschluss-poligen-Grad/dp/B00H51O4MM/ref=sr_1_12?s=ce-de&ie=UTF8&qid=1507585320&sr=1-12&keywords=usb+port+l%C3%B6ten
 
+and
+
 -> https://www.amazon.de/sourcingmap%C2%AE-Klinke-L%C3%B6ten-Stecker-Adapter-schwarz-silber/dp/B00OK5Y728/ref=sr_1_1?ie=UTF8&qid=1508941449&sr=8-1&keywords=usb+male+l%C3%B6ten
-
-# USB Card Reader Stick
-
--> https://www.amazon.de/gp/product/B073B2WFVH/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1
 
 # Mirror for Battery dislay
 
@@ -43,19 +40,19 @@ or
 
 -> https://www.amazon.de/gp/product/B008R50AA0/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1
 
-# 3,5 Klinke adapter Kabel
+# 3,5 Audio cable
 
 -> https://www.amazon.de/gp/product/B0198L22BQ/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1
 
-# HDMI Flachband Kabel
+# HDMI flat cabel
 
 -> https://www.amazon.de/gp/product/B01M1MZ8Y8/ref=oh_aui_detailpage_o03_s01?ie=UTF8&psc=1
 
-# 0,5 Watt Lautpsrecher
+# 0,5 Watt speaker
 
 -> https://www.amazon.de/gp/product/B00X77TY96/ref=oh_aui_detailpage_o03_s02?ie=UTF8&psc=1
 
-# Schrumpfschlauch
+# Shrink tube
 
 -> https://www.amazon.de/gp/product/B008X4RLJS/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1
 
@@ -112,9 +109,13 @@ or
 
 -> https://www.amazon.de/AmazonBasics-USB-Hub-Ultra-Ports/dp/B003M0NURK/ref=sr_1_1?ie=UTF8&qid=1509745296&sr=8-1&keywords=amazon+hub+2.0
 
-# Laser Pointer (für 3v Batterie)
+# Laser Pointer (and 3v battery)
 
 -> https://www.amazon.de/gp/product/B0716FSRJ1/ref=s9_acsd_hps_bw_c_x_5_w
+
+and 
+
+-> https://www.amazon.de/gp/product/B00EZ6I9I0/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1
 
 # Mic
 
@@ -124,9 +125,16 @@ or
 
 -> https://www.amazon.de/gp/product/B00W3GBX50/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1 
 
-# SD Card reader
+# SPIO SD Card reader
 
 -> https://www.amazon.de/gp/product/B06X1DX5WS/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1
 
+# USB Charger cable to bulid male to male charge cable
+
+-> https://www.amazon.de/gp/product/B0732Q9H62/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1
+
+# HDMI connector cable
+
+-> https://www.amazon.de/gp/product/B00CXXMFGE/ref=oh_aui_detailpage_o07_s02?ie=UTF8&psc=1
 
 
