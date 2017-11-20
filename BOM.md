@@ -38,8 +38,6 @@ and
 
 -> https://www.amazon.de/gp/product/B0721PYB9S/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1
 
--> https://www.amazon.de/gp/product/B008R50AA0/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1
-
 # 3,5 Audio cable
 
 -> https://www.amazon.de/gp/product/B0198L22BQ/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1
