@@ -72,7 +72,7 @@ and
 
 # Temperature Humidity Sensor
 
--> https://www.amazon.de/Arduino-Temperatur-Feuchtigkeit-Hygrometer-Humidity/dp/B00HCAC95K/ref=sr_1_2?s=ce-de&ie=UTF8&qid=1508940925&sr=1-2&keywords=Temperature+Humidity+Sensor
+-> https://www.amazon.de/DHT22-AM2302-Digital-Temperatur-Feuchtesensor/dp/B01DB8JH4M/ref=sr_1_1?ie=UTF8&qid=1511696089&sr=8-1&keywords=am2302
 
 # San Disk 32 GB for additional harddrive built in
 
